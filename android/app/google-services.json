@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052463305651",
+    "project_id": "cemalcemil-5f986",
+    "storage_bucket": "cemalcemil-5f986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052463305651:android:e4267e287b059087c1b1c6",
+        "android_client_info": {
+          "package_name": "com.example.mppl_prak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBsNhyE46ah9w_EknBFGlH76pE0iTWbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
